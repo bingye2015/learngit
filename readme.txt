@@ -4,7 +4,12 @@ git has a mutable index called stage.
 git tracks changes
 i have a repo in github!
 <<<<<<< HEAD
+<<<<<<< HEAD
 creating a new branch is quick and simple.
+=======
+creating a new branch is quick and simple.
+change the dev
+>>>>>>> dev
 =======
 creating a new branch is quick and simple.
 change the dev
